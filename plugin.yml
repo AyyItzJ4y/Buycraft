@@ -1,1 +1,6 @@
+name: GPEBuycraft
+main: Buycraft\PocketMine\BuycraftPlugin
+version: 0.5.0
+author: AyyItzJ4y
+api: [3.0.0-ALPHA7, 3.0.0-ALPHA8]
 
